@@ -1,4 +1,4 @@
-# streamlit run SI_Optimizacion_Vuelos.py
+# streamlit run streamlit_app.py
 
 import streamlit as st
 import pandas as pd
