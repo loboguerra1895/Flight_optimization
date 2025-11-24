@@ -31,7 +31,7 @@ def load_distances():
 distance_dict = load_distances()
 
 st.title("Sistema Inteligente: Optimización de Vuelos")
-st.write("Ingrese un vuelo.")
+st.write("Ingrese un vuelo para ver su retraso.")
 
 # --- Sidebar: solo entrada manual ---
 st.sidebar.header("Entrada manual")
